@@ -1,0 +1,2 @@
+# Implementation-of-Black-box-in-cars-for-accident-analysis-and-prevention
+blackbox system will include sensors for monitoring various parameters (speed, acceleration, braking, GPS location) and integrate with IoT platforms for data collection, storage, and analysis. The insights gained from this data will be used to improve vehicle safety features, and potentially assist in insurance claims and legal processes
